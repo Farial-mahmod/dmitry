@@ -194,7 +194,23 @@ This will run all the functions with their default settings and will print
 to the standard output aswell as saving the results to "./example-host.com.txt"
 
 =========================================================================
-7. Contact
+7. Sample Result
+=========================================================================
+
+After running dmitry successfully on your terminal, you should get a set of handful information - including but not limited to:
+
+(a) Registry Domain ID
+(b) WHOIS Server
+(c) Registrar URL
+(d) Registry Expiry Date
+(e) Registrat IANA ID
+(f) Nameservers
+(g) Ports (Protocol)
+(h) Ports (State)
+(i) DNSSEC
+
+=========================================================================
+8. Contact
 =========================================================================
 
 Please contact me with any thoughts or suggestions, Bugs and queries etc.
